@@ -1,2 +1,2 @@
-# hellohel1o의 mini homepage
-
+# hellohel1o의 미니 홈페이지
+- 혈액형: A
