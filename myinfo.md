@@ -1,1 +1,2 @@
 - 취미 : 운동, 음악 듣기
+- MBTI : INTJ or INTP
