@@ -2,11 +2,11 @@
 
 ## 목차
 
-- Git이란?
-- Git 기본 명령어
+- [Git이란?](#git이란)
+- [Git 기본 명령어](#git-기본-명령어)
 - 브랜치와 병합
-- GitHub 사용
-- 추가 리소스
+- [GitHub 사용](#github-사용)
+- [추가 리소스](#추가-리소스)
 
 ## Git이란?
 
@@ -36,7 +36,7 @@ git commit -m "첫 번째 커밋"
 
 - 스테이징 영역에 파일을 추가하고, 커밋을 생성합니다.
 
-# GitHub 사용
+## GitHub 사용
 
 GitHub는 Git을 기반으로 한 협업 플랫폼입니다. 다음 단계를 통해 원격 저장소를 사용할 수 있습니다:
 
@@ -48,7 +48,7 @@ GitHub는 Git을 기반으로 한 협업 플랫폼입니다. 다음 단계를 �
 git push origin main
 ```
 
-![Git 로고] (URL: https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+![Git 로고](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
 ## 추가 리소스
 
