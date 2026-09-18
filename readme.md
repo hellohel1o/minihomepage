@@ -10,7 +10,7 @@ this is navigation
 about us
 
 ----------------------
-## 장바구니 페이지 만들기
+## 장바구니 페이지
 this is cart
 
 ## 구매 페이지 
