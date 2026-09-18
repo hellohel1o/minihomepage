@@ -16,9 +16,12 @@ this is cart
 ## 구매 페이지 
 이것은 구매 페이지 입니다.
 
-=====================
+----------------------
+## 사이드바
+this is sidebar
+
 ## 검색
 input search
 
 ## 푸터
-this is putter
+this is footer
