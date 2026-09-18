@@ -2,3 +2,6 @@
 
 - 로컬에서 작성
 - github에서 작성
+
+## 푸터
+this is putter
