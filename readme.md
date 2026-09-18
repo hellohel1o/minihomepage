@@ -4,5 +4,4 @@
 - github에서 작성
 
 ## 내비게이션 추가
-    this is navigation
-    내비게이션
+this is navigation
